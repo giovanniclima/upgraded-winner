@@ -1,0 +1,20 @@
+{
+  "title": "Captain's Log",
+  "url": "https://example.com/",
+  "description": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+  "feed": {
+    "subtitle": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com",
+    "url": "https://example.com/about-me/"
+  }
+}
